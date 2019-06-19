@@ -2,7 +2,7 @@
 name: Suggestion
 about: Suggest a change to WWE
 title: Suggestion
-labels: ''
+labels: Enhancement
 assignees: ''
 
 ---
