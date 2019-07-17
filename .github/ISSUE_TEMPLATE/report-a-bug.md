@@ -21,7 +21,7 @@ assignees: ''
 <!-- You can find your logs in `%appdata%/.minecraft/logs/` for Windows, or  `/Library/Application\ Support/minecraft/logs` for Mac. -->
 
 ## Description
-<!-- Module1 was supposed to do X, but it resulted in Y! / Module2 doesn't work in MC versionZ. / I crash when I enable Module3! -->
+<!-- Flight kills me on mcserver.com / Xray doesn't work in WWE for 1.14.2. / My game crashes when enabling Flastplace! -->
 
 ## Steps to reproduce:
 - [ ] I am able to consistently reproduce this error
