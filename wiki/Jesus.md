@@ -10,7 +10,7 @@ Useful for traversing distances across oceans, or just getting over that little 
 Doesn't send packet. _(Needs more information)_
 
 **Test**  
-"Just a test, youe'll have to wonder what it does. (;" -THEREALWWEFAN _(Needs more information)_
+"Just a test, you'll have to wonder what it does. (;" -THEREALWWEFAN _(Needs more information)_
 
 **Modes:**
 * Solid
