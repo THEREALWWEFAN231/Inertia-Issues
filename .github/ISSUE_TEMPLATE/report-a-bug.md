@@ -21,7 +21,7 @@ assignees: ''
 <!-- You can find your logs in `%appdata%/.minecraft/logs/` for Windows, or  `/Library/Application\ Support/minecraft/logs` for Mac. -->
 
 ## Description
-<!-- Flight kills me on mcserver.com / Xray doesn't work in WWE for 1.14.2. / My game crashes when enabling Flastplace! -->
+<!-- Flight kills me on mcserver.com / Xray doesn't work in WWE for 1.14.2. / My game crashes when enabling Fastplace! -->
 
 ## Steps to reproduce
 - [ ] I am able to consistently reproduce this error
