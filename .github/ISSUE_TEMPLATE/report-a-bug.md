@@ -33,6 +33,6 @@ assignees: ''
 
 
 ## Checklist
-- [ ] I have included my version of Minecraft I'm running, WWE's version, and a list of my mods if any were others were used
+- [ ] I have included my version of Minecraft I'm running, WWE's version, and a list of my mods if any others were used
 - [ ] I have included the steps to reproduce and/or my logs to the best I am able to share
 - [ ] The Developers are allowed to contact me on the WWE Discord for further information, if they need my help
