@@ -23,11 +23,12 @@ assignees: ''
 ## Description
 <!-- Flight kills me on mcserver.com / Xray doesn't work in WWE for 1.14.2. / My game crashes when enabling Flastplace! -->
 
-## Steps to reproduce:
+## Steps to reproduce
 - [ ] I am able to consistently reproduce this error
 <!-- If you can consistently get this error, let us know how! If we can reproduce it, we can fix it. If we can't, then we're just shooting in the dark on whether or not we've fixed it! -->
 
-##Screenshot of modules enabled##
+## Screenshot of modules enabled
+- [ ] This image contains sensitivity information
 <!-- Even if you don't think it could effect what happened, sometimes modules may break others. We don't know! We may never know, if you don't show us what mods are enabled. -->
 
 
