@@ -19,4 +19,3 @@ Doesn't send packet. _(Needs more information)_
 	* _(Needs more information)_
 * Mini Jump
 	* _(Needs more information)_
-
