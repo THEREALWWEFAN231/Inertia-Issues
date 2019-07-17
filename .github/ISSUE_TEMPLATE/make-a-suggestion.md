@@ -21,4 +21,4 @@ assignees: ''
 
 ## Additional Context
 <!-- Is this feature in another client? Do you have a video showcasing it? Anything leftover that you might want to add, or to let us know about? -->
-<!-- Almost every other client has this. It's really necessary, so you should add it! Just make sure not to let users set the speed too fast, I think it might lag servers. -->
+<!-- Example: Almost every other client has this. It's really necessary, so you should add it! Just make sure not to let users set the speed too fast, I think it might lag servers. -->
