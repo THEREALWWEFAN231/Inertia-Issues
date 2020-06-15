@@ -1,7 +1,7 @@
 # Inertia
 
 ## Download
-You can download wwe from [here](https://http://inertiaclient.com/)
+You can download Inertia from [here](https://inertiaclient.com/)
 
 ## Report Bugs
 You can report bugs or suggest features [here](https://github.com/THEREALWWEFAN231/inertia/issues)
