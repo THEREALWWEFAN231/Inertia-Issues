@@ -6,11 +6,11 @@ labels: bug
 assignees: ''
 ---
 
-**WWE version:** 
+**Inertia Utility Mod version:** 
 **Minecraft version:** 
 **Operating system:** 
 **Optifine/Other mods:** 
 
-**Whats the issue:** 
+**What's the issue:** 
 
 **Crash-report(Would be very useful also please format):**
