@@ -7,8 +7,8 @@ assignees: ''
 
 ---
 
-**Minecraft Version**
+**Minecraft Version(s)**
 
 **What is the suggestion**
 
-**Why it will be useful**
+**Why it will be useful to have**
