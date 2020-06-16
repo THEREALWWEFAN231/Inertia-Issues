@@ -1,4 +1,4 @@
-# Inertia
+# Inertia Utility Mod
 
 ## Download
 You can download Inertia from [here](https://inertiaclient.com/)
