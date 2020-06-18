@@ -11,4 +11,4 @@ assignees: ''
 
 **What is the suggestion**
 
-**Why it will be useful to have**
+**Why would this feature be useful**
