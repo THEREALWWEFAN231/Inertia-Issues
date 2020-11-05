@@ -12,4 +12,4 @@ labels: bug
 
 **What's the issue:** 
 
-**Crash-report(Would be very useful also please format):**
+**Crash-report(if applicable)(Would be very useful also please format):**
