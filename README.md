@@ -8,3 +8,5 @@ You can report bugs you find while using Inertia Utility Mod here. [here](https:
 
 ## Suggest Features
 You can suggest features to help make Inertia Utility Mod even better! [here](https://github.com/THEREALWWEFAN231/Inertia/issues)
+
+Please check that your suggestion has not been prematurely stolen by somebody else by using the search bar. 
