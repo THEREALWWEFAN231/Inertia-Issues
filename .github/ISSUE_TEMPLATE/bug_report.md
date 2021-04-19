@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Report a bug discovered in Inertia Utility Mod
+about: Report a bug in Inertia Utility Mod
 title: Bug
 labels: bug
 ---
@@ -13,7 +13,7 @@ labels: bug
 
 **What's the bug:** 
 
-**Crash-report(if applicable)(Would be very useful, is located in .minecraft/latest.log):**
+**Crash-report(if applicable)(located in .minecraft/latest.log):**
 
 **Final checklist:**
 - [x] I know how to properly use check boxes. 
