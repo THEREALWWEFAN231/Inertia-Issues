@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: Report a bug discovered in Inertia Utility Mod
 title: Bug
 labels: bug
 ---
@@ -9,13 +9,13 @@ labels: bug
 **Minecraft version:** 
 **Operating system:** 
 **Optifine/Other mods:** 
+**Launcher:**
 
-**What's the issue:** 
+**What's the bug:** 
 
-**Crash-report(if applicable)(Would be very useful also please format):**
+**Crash-report(if applicable)(Would be very useful, is located in .minecraft/latest.log):**
 
 **Final checklist:**
-
-- [ ] I know how to properly use check boxes 
-- [ ] I have tried to reproduce this bug after removing all other mods except for Inertia. 
+- [x] I know how to properly use check boxes. 
+- [ ] I have tried to reproduce this bug after removing all other mods, including Optifine or Sodium. 
 - [ ] I have attemped to reproduce this bug using the latest available release of Inertia. 
