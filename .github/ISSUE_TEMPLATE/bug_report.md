@@ -13,7 +13,7 @@ labels: bug
 
 **What's the bug:** 
 
-**Crash-report(if applicable)(located in .minecraft/latest.log):**
+**Crash-report (if applicable) (located in .minecraft/latest.log):**
 
 **Final checklist:**
 - [x] I know how to properly use check boxes. 
