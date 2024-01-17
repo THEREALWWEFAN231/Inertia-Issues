@@ -1,5 +1,8 @@
 # Inertia Utility Mod
 
+# Archived
+No lonnger updated, issues will not be looked at, please use https://github.com/THEREALWWEFAN231/inertia-client
+
 ## Download
 You can download Inertia from [here](https://inertiaclient.com/)
 
